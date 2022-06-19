@@ -39,7 +39,7 @@ function App () {
         email: "",
         comment: "",
         country: "", //=> no default value after submitting
-        gender: "", //=> no default value submitting
+        gender: "", //=> no default value after submitting
         agree: false,
       })
       setError((state) => ({
